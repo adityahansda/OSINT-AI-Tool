@@ -106,7 +106,7 @@ pip install -r requirements.txt
 ### 4. Run the Tool
 
 ```bash
-python main.py
+python OSINT_Tool.py
 ```
 
 ---
